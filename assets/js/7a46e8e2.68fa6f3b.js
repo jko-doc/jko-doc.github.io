@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkscripts_js=self.webpackChunkscripts_js||[]).push([[415],{4328:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Usage","slug":"/category/usage","permalink":"/category/usage","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"Quick start","permalink":"/quick"},"next":{"title":"jko.js","permalink":"/usage/jkojs"}}}}')}}]);
