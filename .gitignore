@@ -3,4 +3,9 @@
 
 # Production
 /build
+.docusaurus/
+
+/*.env
+env/.env.*
+!env/.env.ci
 
